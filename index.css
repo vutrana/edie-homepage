@@ -351,6 +351,10 @@ footer {
   margin-right: 8px;
 }
 
+.footer__contact p {
+  color: white;
+}
+
 .footer__credit {
   font-family: Montserrat;
   font-weight: 500;
